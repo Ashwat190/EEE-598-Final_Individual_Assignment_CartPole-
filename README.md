@@ -1,5 +1,4 @@
-This repository contains the code used to train, evaluate, and plot results for solving the Cart-pole Balance task from the DeepMind Control Suite (DMC) using Proximal Policy Optimization (PPO).
-Training is performed with three seeds (0, 1, 2) and evaluation is performed using seed = 10. Code Was executed in Windows OS.
+Code Was executed in Windows OS.
 
 
 Start by Cloning the repo. Then.
