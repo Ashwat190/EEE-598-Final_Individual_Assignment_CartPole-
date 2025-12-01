@@ -49,7 +49,7 @@ ppo_model_seedX_eval_seed10.npy
 
 Step 4: Plot Training and Evaluation Curves
 
-After generating all .npy result files, run:
+After generating all three .npy result files, run:
 
 -> python Plot.py 
 
